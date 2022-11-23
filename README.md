@@ -14,4 +14,4 @@ The System will ask retailers to create their accounts by providing essential de
 Once retailers successfully log in to the application they can update their inventory details, also users will be able to add new stock by submitting essential details related to the stock.
 They can view details of the current inventory. The System will automatically send an email alert to the retailers if there is no stock found in their accounts.
 So that they can order new stock.
-image
+
